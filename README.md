@@ -22,7 +22,11 @@ Stops are compared inside one circuit. A fast stop at Silverstone is compared wi
 
 The track decides the pit-lane time. For circuits with at least eight races, Baku is 20.7 seconds and Sochi is 30.1. Singapore is 29.7 and Silverstone is 28.9. Monaco is 25.1, around the middle. The number includes the lane, and Monaco's lane is not the longest.
 
+![Median pit-lane time by circuit](charts/pit_lane_by_circuit.png)
+
 A fast stop still loses places. The fastest quarter loses a median of 2 places, and 2.9 on average. The other three quarters lose a median of 3. The slowest quarter loses 3.5 on average. About 5% of the fastest stops gain a place, and about 4% of the slowest ones do. The two middle quarters are not in a clean order. So it is the fastest quarter against the rest, not one extra place for every extra second.
+
+![Places lost for fast and slow stops](charts/fast_stops_and_places.png)
 
 ## What this does not show
 

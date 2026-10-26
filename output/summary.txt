@@ -1,0 +1,16 @@
+timed_stops=10770
+timed_races=308
+stops_used=9188
+races=294
+years=2012-2026
+latest_race_date=2026-10-25
+mean_places_all=-3.2622
+median_places_all=-3.0000
+fast_mean_places=-2.8949
+slow_mean_places=-3.5024
+fast_share_gained=0.0515
+slow_share_gained=0.0422
+fast_share_held=0.1939
+slow_share_held=0.1596
+fast_share_lost=0.7547
+slow_share_lost=0.7982
